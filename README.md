@@ -12,9 +12,9 @@
 - ⚡ Fun fact: **Would prefer chai over coffee any-day .**
 
 <p align="left">
-<a href="https://dev.to/sanchitmishra" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sanchit-mishra" height="20" width="20" /></a>
-<a href="https://twitter.com/_SanchitMishra_" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_SanchitMishra_" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/sanchit-mishra-687427164/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanchit-mishra" height="20" width="20" /></a>
+<a href="https://dev.to/sanchitmishra" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sanchit-mishra" height="20" width="20" /></a>
+<a href="https://twitter.com/_SanchitMishra_" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_SanchitMishra_" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/sanchit-mishra-687427164/" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanchit-mishra" height="20" width="20" /></a>
   
 </p>  
 </br>
